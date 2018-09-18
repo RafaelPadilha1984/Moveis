@@ -1,6 +1,13 @@
-h1	{
-		font-family:	sans-serif;
+h1	
+{
+	font-family:	sans-serif;
 }
-li	{
-		font-family:	monospace;
+li	
+{
+	font-family:	monospace;
+}
+body
+{
+	width: 50%;
+	margin: auto
 }
